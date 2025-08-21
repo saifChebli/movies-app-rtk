@@ -1,0 +1,6 @@
+{
+    "movies" : [
+        {"id" : 1 , "title" : "Inception" , "rating" : 9 , "genre" : "Sci-Fi"},
+        {"id" : 2 , "title" : "The Dark Knight" , "rating" : 8.7 , "genre" : "Action"}
+    ]
+}
