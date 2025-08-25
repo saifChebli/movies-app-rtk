@@ -1,6 +1,16 @@
 {
-    "movies" : [
-        {"id" : 1 , "title" : "Inception" , "rating" : 9 , "genre" : "Sci-Fi"},
-        {"id" : 2 , "title" : "The Dark Knight" , "rating" : 8.7 , "genre" : "Action"}
-    ]
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "rating": 9,
+      "genre": "Sci-Fi"
+    },
+    {
+      "title": "The Dark knight",
+      "genre": "Action",
+      "rating": 7,
+      "id": "2"
+    }
+  ]
 }
